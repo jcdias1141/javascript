@@ -31,6 +31,4 @@ console.log(lista.toString());
 console.log(lista.join(" - "))
 
 
-//Dicionário
-    
 
